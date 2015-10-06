@@ -7,9 +7,13 @@
 4. http://pandas.pydata.org/index.html
 5. https://github.com/piskvorky/gensim/
 6. https://github.com/scikit-learn/scikit-learn
+### ner
+1. https://github.com/john-kurkowski/Kilgore-Trout
+2. https://github.com/aritter/twitter_nlp
 
 ##guides
 1. http://www.ark.cs.cmu.edu/TweetNLP/
+2. http://help.sentiment140.com/for-students/
 
 ##blogs
 1. http://blog.wesmckinney.com/
